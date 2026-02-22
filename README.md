@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python and FastAPI framework.<br>I'm interested in Developing Applications, Software Engineering, AI, Machine Learning and Big Data Concepts.<br>I'm Software Engineering Master Student at Yazd University<br>Ask me About Python
+I'm currently learning Python and FastAPI framework.<br>I'm interested in Developing Applications, Software Engineering, AI, Machine Learning and Big Data Concepts.<br>I'm Software Engineering Master Student at Yazd University<br>
 
 
 ## 🌐 Socials:
